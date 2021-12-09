@@ -1,0 +1,11 @@
+a -> 8
+b -> 6
+c -> 8
+d -> 7
+e -> 4
+f -> 9
+g -> 7
+
+Can determine {a, c}, {b}, {d, g}, {e}, {f}
+c occurs in unique 2 segment
+d occurs in unique 4 segment
